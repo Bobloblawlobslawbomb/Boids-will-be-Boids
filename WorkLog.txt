@@ -54,3 +54,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 1130: Fixed the styling bug of the tutorial project (had to copy pasta from the repo, this guys lesson didnt exactly match the css involved so....). Still working along with the video. His file structure is slightly different from the epicodus lessons, but I like it. Going to try and replicate it for my Boids.
 
 135: Forgot to check in after coming back from lunch. Still plugging away. This React Movie Data Base app is slick looking. Hopefully I can make this happen in my capstone.
+
+238: I wish this React-movieDb was my project. But i for sure only coded along.
