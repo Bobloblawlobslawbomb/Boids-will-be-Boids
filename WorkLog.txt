@@ -56,3 +56,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 135: Forgot to check in after coming back from lunch. Still plugging away. This React Movie Data Base app is slick looking. Hopefully I can make this happen in my capstone.
 
 238: I wish this React-movieDb was my project. But i for sure only coded along.
+
+330: Im realizing why this vid is taking so long. I have to pause it every 10 seconds. Im at 3:51, so about 3.5 more hours to go. He is making custom hooks, to handle the api async logic, I dont have to deal with that, but those seem intimidating. I guess we are learning something similar next week. Im gonna go for a little walk to stretch my gams.
