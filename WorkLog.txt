@@ -1,0 +1,52 @@
+import { Friday July 16 } from '9:15-6:15';
+
+Need to: 
+
+const planForToday = () => {
+  
+  const addMore = (VP) => {
+    to my MVP/Capstone proposal;
+    return capstoneProposal(James, Erik);
+  }
+
+  const AdjustREADME = (capstoneProposal) => {
+    also add capstone proposal to README;
+  }
+
+  const research = (knowledge) => {
+
+  } 
+
+  const reactTutorial = () => {
+
+  }
+}
+
+
+915: create-react-app sim-boids-react
+
+920: filling out some of WorkLog.txt
+
+930: Going to work through some more of this react tutorial I've found (https://www.youtube.com/watch?v=nTeuhbP7wdE). If I am going to incorporate React into this, I need to feel a little more solid with it.
+
+940: $ yarn start
+/c/Users/gianc/AppData/Roaming/npm/yarn: line 2: sed: command not found
+/c/Users/gianc/AppData/Roaming/npm/yarn: line 2: dirname: command not found
+/c/Users/gianc/AppData/Roaming/npm/yarn: line 4: uname: command 
+not found
+node:internal/modules/cjs/loader:927
+  throw err;
+  ^
+
+Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
+←[90m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:924:15)←[39m
+←[90m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)←[39m
+←[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)←[39m
+←[90m    at node:internal/main/run_main_module:17:47←[39m {     
+  code: ←[32m'MODULE_NOT_FOUND'←[39m,
+  requireStack: []
+} 
+
+--this now happens in the VSCode terminal, sweet. Luckily the GitBash terminal still works. Gonna iron this issue out eventually
+
+1024: Still working through my tutorial (it's 7 hours, Im at 2:15, so it'll be a bit) --but for some reason the styling is not working (as usual for me) gotta debug a little.
