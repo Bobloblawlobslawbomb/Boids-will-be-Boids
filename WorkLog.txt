@@ -50,3 +50,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 --this now happens in the VSCode terminal, sweet. Luckily the GitBash terminal still works. Gonna iron this issue out eventually
 
 1024: Still working through my tutorial (it's 7 hours, Im at 2:15, so it'll be a bit) --but for some reason the styling is not working (as usual for me) gotta debug a little.
+
+1130: Fixed the styling bug of the tutorial project (had to copy pasta from the repo, this guys lesson didnt exactly match the css involved so....). Still working along with the video. His file structure is slightly different from the epicodus lessons, but I like it. Going to try and replicate it for my Boids.
