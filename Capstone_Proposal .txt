@@ -1,0 +1,22 @@
+Name of Student: Giancarlo Vigneri
+
+Name of Project: Boids will be Boids
+
+Project's Purpose or Goal: An interactive art piece which showcases boids and their behaviors
+List the absolute minimum features the project requires to meet this purpose or goal:
+* Create/implement boids which follow these three primary guiding principles: 
+1) Seeking: the tendency to move towards the average position of the group
+2) Separation: the tendency to avoid getting too close to any individual
+3) Alignment: the tendency to change direction in relation to match the average direction of the group
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+* HTML
+* CSS
+* JavaScript
+
+If you finish developing the�minimum viable product (MVP)�with time to spare, what will you work on next? Describe these features here: Be specific.
+* React Front end
+* Configurable flock options
+* Configurable boid placement
+* Configurable track and obstacles
+* Movement in 3-D
