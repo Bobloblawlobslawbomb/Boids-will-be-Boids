@@ -78,4 +78,4 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 
 (11)1115: More Dan Shiffman videos. I decided to start at the beginning of his series. He's been making these coding train videos for 6 years. I think if i watch them in 2X speed I can get through the whole lot in 3 years...... 
 
-(12)1210: So Ive been at this computer on and of today since around 12. Gonna do 3 more days of this HAHAHAHAHAHAHAHAHAHa. I've been Jokerfied. I found a few different in roads to implemeting p5 into React just by googling "how to integrate p5 into react". Im going to try them out tomorrow, and see where I land. But rest now.
+(12)1210: So Ive been at this computer on and off today since around 12. Gonna do 3 more days of this HAHAHAHAHAHAHAHAHAHa. I've been Jokerfied. I found a few different in roads to implemeting p5 into React just by googling "how to integrate p5 into react". Im going to try them out tomorrow, and see where I land. But rest now.
