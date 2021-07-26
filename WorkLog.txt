@@ -23,7 +23,7 @@ const planForToday = () => {
 }
 
 
-915: create-react-app sim-boids-react
+(1)915: create-react-app sim-boids-react
 
 920: filling out some of WorkLog.txt
 
@@ -49,22 +49,25 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 
 --this now happens in the VSCode terminal, sweet. Luckily the GitBash terminal still works. Gonna iron this issue out eventually
 
-1024: Still working through my tutorial (it's 7 hours, Im at 2:15, so it'll be a bit) --but for some reason the styling is not working (as usual for me) gotta debug a little.
+(2)1024: Still working through my tutorial (it's 7 hours, Im at 2:15, so it'll be a bit) --but for some reason the styling is not working (as usual for me) gotta debug a little.
 
-1130: Fixed the styling bug of the tutorial project (had to copy pasta from the repo, this guys lesson didnt exactly match the css involved so....). Still working along with the video. His file structure is slightly different from the epicodus lessons, but I like it. Going to try and replicate it for my Boids.
+(3)1130: Fixed the styling bug of the tutorial project (had to copy pasta from the repo, this guys lesson didnt exactly match the css involved so....). Still working along with the video. His file structure is slightly different from the epicodus lessons, but I like it. Going to try and replicate it for my Boids.
 
-135: Forgot to check in after coming back from lunch. Still plugging away. This React Movie Data Base app is slick looking. Hopefully I can make this happen in my capstone.
+(4)135: Forgot to check in after coming back from lunch. Still plugging away. This React Movie Data Base app is slick looking. Hopefully I can make this happen in my capstone.
 
-238: I wish this React-movieDb was my project. But i for sure only coded along.
+(5)238: I wish this React-movieDb was my project. But i for sure only coded along.
 
-330: Im realizing why this vid is taking so long. I have to pause it every 10 seconds. Im at 3:51, so about 3.5 more hours to go. He is making custom hooks, to handle the api async logic, I dont have to deal with that, but those seem intimidating. I guess we are learning something similar next week. Im gonna go for a little walk to stretch my gams.
+(6)330: Im realizing why this vid is taking so long. I have to pause it every 10 seconds. Im at 3:51, so about 3.5 more hours to go. He is making custom hooks, to handle the api async logic, I dont have to deal with that, but those seem intimidating. I guess we are learning something similar next week. Im gonna go for a little walk to stretch my gams.
 
-410: Tired of this tutorial presently. Going to update the README a little.
+(7)410: Tired of this tutorial presently. Going to update the README a little.
 
 455: Sent James and Erik an email hopefully further clarifying my project proposal. Also updated my README with some pertinent information and added my capstone proposal to the file tree. Going to find some boid links for the last hour of the day.
 
-600: https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
+(8)600: https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
 
+------------------------
 7/25/21
-815: So.... I have spent the weekend working through some of a Udemy course on React that I purchased. Because it was a course and not my capstone I neglected to log any hours "worked" I am, this evening, regretting that decision.
+------------------------
+(+7hours 'learning' -- but I realize these don't really 'count')815: So.... I have spent the weekend working through some of a Udemy course on React that I purchased. Because it was a course and not my capstone I neglected to log any hours "worked" I am, this evening, regretting that decision.
 
+(9)915: So I've been putting off trying to just cram an implementation of boids that I found into React, because I thought it wouldn't work well...guess what? It doesn't. Turns out there are too many little bits (and errors) to just get it working. So I am going to go in one component at a time till I get mad and scrap it all and just use basic html! 

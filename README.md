@@ -15,7 +15,7 @@ _An exploration of Boids and their behaviours_
 >* _React_
 
 ## Description/Overview
-An interactive art app which simulates the 'aggregate motion of a flock of birds' -based on Craig Reynolds' boids logic. Planned functionality includes (but is not limited to): Adjustable boid parameters (count, speed, coherence, etc), Mouse click creation of more boids and or boids reacting to mouse cursor location. I am also thinking about adding boid colors and possibly 'predator' boids, which would attempt to 'hunt' normal boids.
+An interactive art app which simulates the 'aggregate motion of a flock of birds' -based on Craig Reynolds' boids logic. 'The name "boid" corresponds to a shortened version of "bird-oid object", which refers to a bird-like object.' Planned functionality includes (but is not limited to): Adjustable boid parameters (count, speed, coherence, etc), Mouse click creation of more boids and or boids reacting to mouse cursor location. I am also thinking about adding boid colors and possibly 'predator' boids, which would attempt to 'hunt' normal boids.
 
 ---
 
