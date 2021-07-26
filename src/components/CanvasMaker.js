@@ -4,7 +4,6 @@ import Sketch from "react-p5";
 	let x = 50;
 	let y = 50;
 
-  let flock;
 
 export default (props) => {
 	const setup = (p5, canvasParentRef) => {
