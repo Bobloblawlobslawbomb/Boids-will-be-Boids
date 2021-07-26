@@ -95,3 +95,6 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 (16) 228: Still watching Dan Shiffman. I've made a few [EXAMPLE].js files in my other project. I will add them to this file tree soon. But I still need to make individual index.htmls for them and then link all of them in another (index.)html file, thats how I decided to make my capstone. Super basic, but functional, enough... I got 24 more hours to make it happen.
 
 (17) 340: Still watchin vids. Career services now though. 
+
+(18) 500: I now have a good collection of .js examples. But am still working toward clumping them together with links via html. I feel like I should know this stuff, but am having trouble at the moment. Gonna take a break and revisit soon.
+
