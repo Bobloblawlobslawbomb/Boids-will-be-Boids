@@ -76,4 +76,4 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 
 (10)1015: Okay. I got a canvas drawing in p5, but thats about it. I don't see how the functions in the boid implementations that I have in p5Implementations fit together with what I have in CanvasMaker. So I am presently watching some more coding train videos (https://www.youtube.com/watch?v=alhpH6ECFvQ) in the hopes that I will start to see some patterns. Right now he is doing some wild stuff and I am not getting it. I probably shouldnt have started with a video of porting a fluid simulation paper from 3d to 2d. I will probably watch an 'easier' one next.
 
-(11)
+(11)1115: More Dan Shiffman videos. I decided to start at the beginning of his series. He's been making these coding train videos for 6 years. I think if i watch them in 2X speed I can get through the whole lot in 3 years...... 
