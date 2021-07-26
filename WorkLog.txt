@@ -64,3 +64,7 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 455: Sent James and Erik an email hopefully further clarifying my project proposal. Also updated my README with some pertinent information and added my capstone proposal to the file tree. Going to find some boid links for the last hour of the day.
 
 600: https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
+
+7/25/21
+815: So.... I have spent the weekend working through some of a Udemy course on React that I purchased. Because it was a course and not my capstone I neglected to log any hours "worked" I am, this evening, regretting that decision.
+
