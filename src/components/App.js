@@ -1,6 +1,6 @@
 import React from 'react'
-import Sketch from 'react-p5';
 import Header from './Header';
+import CanvasMaker from './CanvasMaker';
 
 class App extends React.Component {
 render() {
@@ -8,7 +8,7 @@ render() {
     // <BoidOneSketch />
     <div>
     <Header />
-    <div>The Canvas Maker</div>
+    <CanvasMaker />
     <div>Button/Slider area</div>
     <div>Footer</div>
     </div>
