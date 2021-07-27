@@ -98,3 +98,9 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 
 (18) 500: I now have a good collection of .js examples. But am still working toward clumping them together with links via html. I feel like I should know this stuff, but am having trouble at the moment. Gonna take a break and revisit soon.
 
+--------------------------
+7/27
+-------------------------
+
+
+(19) 1010: Woke up a little late today. But started the day with 2 more Shiffman videos and some coffee.
