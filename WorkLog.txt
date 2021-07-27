@@ -106,3 +106,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 (19) 1010: Woke up a little late today. But started the day with 2 more Shiffman videos and some coffee.
 
 (20) 1210: I know it's been 2 hours. But I only did an hour of learning. So here is me being honest.
+
+(21) 235: OK. I finally got something to work how I want it to. I did the basic of things, but it still feels pretty good. I feel like I can at least show some stuff off now.
