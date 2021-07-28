@@ -110,3 +110,8 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 (21) 235: OK. I finally got something to work how I want it to. I did the most basic of things, but it still feels pretty good. I feel like I can at least show some stuff off now.
 
 (23) 515: I missed a check in because I'm finally getting things to go -- sort of. I feel like I have something to at least show off now.
+
+------------------------------
+7/28
+-------------------------------
+(24) 915: Started the day with Coffee and a Dan SHiffman coding train video.
