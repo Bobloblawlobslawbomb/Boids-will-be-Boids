@@ -121,3 +121,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 (26) 1115: I need to actually do more coding with the project, rather than watching concept videos. I will do that after sending off the cover letters to the potential internships --which I plan to do after lunch.
 
 (27) 1200: Oops, I forgot to commit the last update. Lunch Break.
+
+(28) 400: Retuned from lunch and did my internship applications/New Relic apprenticeship application. 
