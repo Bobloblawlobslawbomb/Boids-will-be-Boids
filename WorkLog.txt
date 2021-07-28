@@ -115,3 +115,5 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 7/28
 -------------------------------
 (24) 915: Started the day with Coffee and a Dan SHiffman coding train video.
+
+(25) 1025: Another 2 Dan Shiffman videos, I should propbably watch ones that are a little more advanced, It's hard to find the "right" ones to watch as they have been doing this for 6 years, and there are a lot to choose from. I also played with my Mitosis simulation further, I really like that one.
