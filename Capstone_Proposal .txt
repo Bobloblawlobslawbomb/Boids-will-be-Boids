@@ -1,9 +1,12 @@
 Name of Student: Giancarlo Vigneri
 
-Name of Project: Boids will be Boids
+Name of Project: p5 is Alive
 
-Project's Purpose or Goal: An interactive art piece which showcases boids and their behaviors
-List the absolute minimum features the project requires to meet this purpose or goal:
+Project's Purpose or Goal: An interactive art piece which showcases visually arresting p5 examples. From basic shapes to 3d animations and boids are in there too. 
+
+List the absolute minimum features the project requires to meet this purpose or goal: A basic introduction to the fundamentals of the p5 JavaScript library. A list of examples and a way to implement them within the framework of the project.
+
+And boids (bird-oid objects).
 * Create/implement boids which follow these three primary guiding principles: 
 1) Seeking: the tendency to move towards the average position of the group
 2) Separation: the tendency to avoid getting too close to any individual
@@ -14,7 +17,7 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 * CSS
 * JavaScript
 
-If you finish developing the�minimum viable product (MVP)�with time to spare, what will you work on next? Describe these features here: Be specific.
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * React Front end
 * Configurable flock options
 * Configurable boid placement
