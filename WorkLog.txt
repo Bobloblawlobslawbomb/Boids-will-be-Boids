@@ -133,3 +133,5 @@ ATTN: I added my time spent learning to this WorkLog. If that is uncouth let's t
 (36) 500: Hey. So I decided that I ought to count the hours worked in learning the Udemy course in React because the plan was to use that in the finished product. Even though I decided to scrap that portion (for now). I figure in the real world learning the tools still 'counts' towards working and I was doing all that. I still plan to work more than 40 hours with these 7 hours added in. But I wanted to have the hours counted towards my total. I'm happy to discuss this further if you all would like.
 
 (37) (started at 7) 800: Some more styling added. Added a few more examples. Probably will fiddle with some 'implementations' to make them more fun, should I click on them in the presentation.
+
+(38) 900: Tried to incorporate a really sweet (and more complex) version of boids, but it needed more than html to giddy up.
