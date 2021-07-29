@@ -1,0 +1,13 @@
+.item {
+  border-radius: 20px;
+  background: #f2d4d4;
+  box-shadow:  -50px 50px 100px #887777,
+                50px -50px 100px #ffffff;}
+
+.ui list{
+
+}
+
+body {
+  background-color: aquamarine;
+}

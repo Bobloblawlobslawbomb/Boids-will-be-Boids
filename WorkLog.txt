@@ -121,3 +121,13 @@ Error: Cannot find module 'V:\Program Files\Git\node_modules\yarn\bin\yarn.js'
 (26) 1115: I need to actually do more coding with the project, rather than watching concept videos. I will do that after sending off the cover letters to the potential internships --which I plan to do after lunch.
 
 (27) 1200: Oops, I forgot to commit the last update. Lunch Break.
+
+(28) 400: Retuned from lunch and did my internship applications/New Relic apprenticeship application.
+
+(29) 500: Started styling and 'married' the abomination that I have been working on with the abomination that was my "React-app"
+
+------
+ATTN: I added my time spent learning to this WorkLog. If that is uncouth let's talk about it.
+------
+
+(36) 500: Hey. So I decided that I ought to count the hours worked in learning the Udemy course in React because the plan was to use that in the finished product. Even though I decided to scrap that portion (for now). I figure in the real world learning the tools still 'counts' towards working and I was doing all that. I still plan to work more than 40 hours with these 7 hours added in. But I wanted to have the hours counted towards my total. I'm happy to discuss this further if you all would like.
