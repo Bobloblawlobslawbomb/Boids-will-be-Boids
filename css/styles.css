@@ -1,13 +1,35 @@
+h1{
+  font-family: Arial;
+  font-size: 50px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#333));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .item {
   border-radius: 20px;
-  background: #f2d4d4;
+  background: #abc22b;
   box-shadow:  -50px 50px 100px #887777,
-                50px -50px 100px #ffffff;}
+                50px -50px 100px #ffffff;
+
+  display: flex;
+  align-items: center;
+  height: 45px;
+  transition: all .3s linear;
+
+
+
+ 
+}
+
+a:hover { color: #dd6edd; }
 
 .ui list{
 
 }
 
-body {
-  background-color: aquamarine;
+body{
+  background: linear-gradient(to right,#000,#0575e6);
+  text-align: center;
 }
+
