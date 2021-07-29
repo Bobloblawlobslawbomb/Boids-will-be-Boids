@@ -1,4 +1,4 @@
- h1{
+h1{
   font-family: Arial;
   font-size: 50px;
   background: -webkit-gradient(linear, left top, left bottom, from(rgb(204, 39, 182)), to(#333));
@@ -13,6 +13,7 @@
   display: flex;
   height: 45px;
   transition: all .3s linear;
+  padding-left: 7px;
 }
 
 a:hover { 
@@ -27,7 +28,7 @@ a:hover {
 } */
 
 #too-big {
-  height: 85px;
+  text-align: justify;
 }
 
 html {

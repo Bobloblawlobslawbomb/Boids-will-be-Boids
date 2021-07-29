@@ -4,6 +4,10 @@ function setup() {
   createCanvas(1000,1000)
   cells.push(new Cell())
   cells.push(new Cell())
+  cells.push(new Cell())
+  cells.push(new Cell())
+  cells.push(new Cell())
+  cells.push(new Cell())
 
 }
 
