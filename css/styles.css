@@ -1,7 +1,7 @@
-h1{
+ h1{
   font-family: Arial;
   font-size: 50px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#333));
+  background: -webkit-gradient(linear, left top, left bottom, from(rgb(204, 39, 182)), to(#333));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -10,48 +10,77 @@ h1{
   border-radius: 20px;
   background: #abc22b;
   box-shadow:   -50px 50px 100px #887777, 50px -50px 100px #ffffff;
-
   display: flex;
-  align-items: center;
   height: 45px;
   transition: all .3s linear;
-
 }
-
-
-
-
 
 a:hover { 
   color: #dd6edd;
+} 
 
+/*Try using the body selector below and commenting out all the css below it (if you're crazy for gradients)*/
 
-}
-
-.ui list{
-
-}
-
-body{
+/* body {
   background: linear-gradient(to right,#000,#0575e6);
   text-align: center;
-}
-
-/* h3:last-child {
-  width: 200px;
-  height: 200px;
-  background: #abc22b;
-
-  color: #fff;
-  clear: both; */
-
-  /* -webkit-transition-property: background, border;
-  -webkit-transition-duration: 2s, 1s;
-  -webkit-transition-timing-function: linear, ease-in-out;
- */
-
-/* h3:last-child:hover {
-  background: blue;
-  border: 20px, solid blueviolet;
 } */
 
+#too-big {
+  height: 85px;
+}
+
+html {
+  height:100%;
+}
+
+body {
+  margin:0;
+}
+
+.bg {
+  animation:slide 3s ease-in-out infinite alternate;
+  background-image: linear-gradient(-60deg, #6c3 50%, #09f 50%);
+  bottom:0;
+  left:-50%;
+  opacity:.5;
+  position:fixed;
+  right:-50%;
+  top:0;
+  z-index:-1;
+}
+
+.bg2 {
+  animation-direction:alternate-reverse;
+  animation-duration:4s;
+}
+
+.bg3 {
+  animation-duration:5s;
+}
+
+.content {
+  background-color:rgba(255,255,255,.8);
+  border-radius:.25em;
+  box-shadow:0 0 .25em rgba(0,0,0,.25);
+  box-sizing:border-box;
+  left:50%;
+  padding:10vmin;
+  position:fixed;
+  text-align:center;
+  top:50%;
+  transform:translate(-50%, -50%);
+}
+
+h1 {
+  font-family:monospace;
+}
+
+@keyframes slide {
+  0% {
+    transform:translateX(-25%);
+  }
+  100% {
+    transform:translateX(25%);
+  }
+}

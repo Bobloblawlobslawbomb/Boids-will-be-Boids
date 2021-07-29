@@ -135,3 +135,5 @@ ATTN: I added my time spent learning to this WorkLog. If that is uncouth let's t
 (37) (started at 7) 800: Some more styling added. Added a few more examples. Probably will fiddle with some 'implementations' to make them more fun, should I click on them in the presentation.
 
 (38) 900: Tried to incorporate a really sweet (and more complex) version of boids, but it needed more than html to giddy up.
+
+(39) 1000: Just new style goofin' - I wanted to do a moving pure css background and I found a way to do so.
